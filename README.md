@@ -9,7 +9,7 @@ A comprehensive testing framework that demonstrates:
 
 ```bash
 # Clone and install
-git clone <repo-url>
+git clone https://github.com/santiago-madriz/ai-assisted-testing.git
 cd ai-assisted-testing
 npm install
 
